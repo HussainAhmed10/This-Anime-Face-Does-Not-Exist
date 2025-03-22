@@ -17,27 +17,6 @@ DCGAN Training Notebook: Code to train and fine-tune the model.
 Pretrained Model: Save and load trained weights.
 Streamlit App: Python script for user-friendly deployment.
 
-💻 Installation & Usage
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/This-Anime-Face-Does-Not-Exist.git
-cd This-Anime-Face-Does-Not-Exist
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit app:
-
-bash
-Copy
-Edit
-streamlit run app.py
-
 📸 Sample Results
 ![6  epoch_100](https://github.com/user-attachments/assets/02bc378a-1876-44e6-b75d-17b347869f93)
 
