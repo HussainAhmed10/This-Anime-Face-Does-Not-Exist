@@ -21,7 +21,7 @@ The trained model is then integrated into a **Streamlit web application**, which
 ## 💻 Installation & Usage  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/This-Anime-Face-Does-Not-Exist.git  
+   git clone https://github.com/HussainAhmed10/This-Anime-Face-Does-Not-Exist.git  
    cd This-Anime-Face-Does-Not-Exist  
    ```  
 2. Install dependencies:  
