@@ -11,27 +11,12 @@ The trained model is then integrated into a **Streamlit web application**, which
 - **DCGAN Implementation**: A neural network trained on anime faces to generate new, unique characters.  
 - **Training Pipeline**: Data preprocessing, model architecture design, loss functions, and evaluation metrics.  
 - **Streamlit App**: Interactive UI for generating and visualizing AI-generated anime faces.  
-- **Deployment on Hugging Face**: Access the model through a simple web-based interface.  
+- **Deployment on Hugging Face**: Access the model through a simple web-based interface (https://huggingface.co/spaces/HussainAhmed10/This_Anime_Face_Does_not_Exist)
 
 ## 📂 Contents  
 - **DCGAN Training Notebook**: Code to train and fine-tune the model.  
 - **Pretrained Model**: Save and load trained weights.  
 - **Streamlit App**: Python script for user-friendly deployment.  
-
-## 💻 Installation & Usage  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/HussainAhmed10/This-Anime-Face-Does-Not-Exist.git  
-   cd This-Anime-Face-Does-Not-Exist  
-   ```  
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-3. Run the Streamlit app:  
-   ```bash  
-   streamlit run app.py  
-   ```  
 
 ## 📸 Sample Results  
 ![ezgif-52372a97120ff3](https://github.com/user-attachments/assets/130cf1d4-519d-418a-965d-90b04f71e044)
