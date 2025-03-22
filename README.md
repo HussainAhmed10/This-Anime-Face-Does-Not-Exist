@@ -34,7 +34,8 @@ The trained model is then integrated into a **Streamlit web application**, which
    ```  
 
 ## 📸 Sample Results  
-![Generated Anime Faces]![6  epoch_100](https://github.com/user-attachments/assets/114c4d7d-0624-401e-b55c-d1a29aed51aa)
+![ezgif-52372a97120ff3](https://github.com/user-attachments/assets/130cf1d4-519d-418a-965d-90b04f71e044)
+
 
 
 ## 📜 Acknowledgments  
