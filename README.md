@@ -34,7 +34,8 @@ The trained model is then integrated into a **Streamlit web application**, which
    ```  
 
 ## 📸 Sample Results  
-![Generated Anime Faces](link_to_generated_images)  
+![Generated Anime Faces]![6  epoch_100](https://github.com/user-attachments/assets/114c4d7d-0624-401e-b55c-d1a29aed51aa)
+
 
 ## 📜 Acknowledgments  
 Inspired by [This Person Does Not Exist](https://thispersondoesnotexist.com/) and anime dataset sources. Built with **PyTorch, Streamlit, and Hugging Face Spaces**.  
