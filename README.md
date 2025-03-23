@@ -3,7 +3,7 @@
 A deep learning project utilizing DCGANs to generate AI-created anime faces.  
 
 ## 🔥 Overview  
-This repository implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** to synthesize anime-style faces at a resolution of 64×64 pixels. The project follows the standard GAN framework, where a **generator** learns to create realistic images while a **discriminator** distinguishes real from fake. By training on an anime dataset, the model progressively improves at generating high-quality, visually convincing anime faces.  
+This repository implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** to synthesize anime-style faces at a resolution of 64×64 pixels. The project follows the standard GAN framework, where a **generator** learns to create realistic images while a **discriminator** distinguishes real images from fake. By training on an anime dataset, the model  improves at generating high-quality, visually convincing anime faces.  
 
 The trained model is then integrated into a **Streamlit web application**, which is hosted on **Hugging Face Spaces**, allowing users to generate AI-made anime faces with a single click.  
 
