@@ -18,6 +18,21 @@ The trained model is then integrated into a **Streamlit web application**, which
 - **Pretrained Model**: Save and load trained weights.  
 - **Streamlit App**: Python script for user-friendly deployment.  
 
+## 💻 Installation & Usage  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/HussainAhmed10/This-Anime-Face-Does-Not-Exist.git  
+   cd This-Anime-Face-Does-Not-Exist  
+   ```  
+2. Install dependencies:  
+   ```bash  
+   pip install -r requirements.txt  
+   ```  
+3. Run the Streamlit app:  
+   ```bash  
+   streamlit run app.py  
+   ```  
+
 ## 📸 Sample Results  
 ![ezgif-52372a97120ff3](https://github.com/user-attachments/assets/130cf1d4-519d-418a-965d-90b04f71e044)
 
