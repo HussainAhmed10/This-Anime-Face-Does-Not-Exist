@@ -34,7 +34,8 @@ The trained model is then integrated into a **Streamlit web application**, which
    ```  
 
 ## 📸 Sample Results  
-![ezgif-52372a97120ff3](https://github.com/user-attachments/assets/130cf1d4-519d-418a-965d-90b04f71e044)
+![Epoch-wise_Results](https://github.com/user-attachments/assets/32d44fcf-c058-4573-93b3-b5dd478f435c)
+
 
 
 
